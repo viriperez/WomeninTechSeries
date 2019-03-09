@@ -29,7 +29,7 @@ Technology is ever-growing. We have started this workshop series with an intenti
 |Saishruthi Swaminathan|IBM|[Profile](https://www.linkedin.com/in/saishruthi-swaminathan)|@saishruthis|
 |Akshey Nama|SJSU|[Profile](https://www.linkedin.com/in/aksheynama)||
 |Darpan Goyal|SJSU|[Profile](https://www.linkedin.com/in/darpan-goyal)||
-|Viri Parez|SJSU|[Profile](https://www.linkedin.com/in/viridianaperezm)||
+|Viri Perez|SJSU|[Profile](https://www.linkedin.com/in/viridianaperezm)||
 |Kishore Vegirau|SJSU|[Profile](https://www.linkedin.com/in/kishore-vegirau-6bbb86178)||
 
 # _Event feedback from participants_
